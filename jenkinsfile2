@@ -2,4 +2,4 @@ commit for changes on jenkisn job to runThis is to test poll SCM with Upstreem d
 
 new commit
 edit for poll scm to trigger the job
-checking warning plugins
+checking junit test 
