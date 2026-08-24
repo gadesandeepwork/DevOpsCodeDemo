@@ -5,7 +5,7 @@ on:
       - master
   workflow_dispatch:
 env:
-  DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
+  DOCKERHUB_USERNAME: gadesandeepwork
   image_name: my-java-app       
 jobs:
   CI_CD_java_code:
